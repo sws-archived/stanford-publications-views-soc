@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Stanford Publications Views Sociology feature.
+ */
+
+include_once 'stanford_publications_views_sociology.features.inc';
